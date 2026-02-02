@@ -16,7 +16,7 @@
 
 ## Screenshots
 
-![alt text](image-1.png)
+![TEST 1](image-1.png)
 
 ### Test 2: Get All Tasks
 
@@ -26,7 +26,7 @@
 
 ## Screenshots
 
-![alt text](image-2.png)
+![TEST 2](image-2.png)
 
 ### Test 3: Filter Completed Tasks
 
@@ -36,7 +36,7 @@
 
 ## Screenshots
 
-![alt text](image-3.png)
+![TEST 3](image-3.png)
 
 ### Test 4: Get Single Task
 
@@ -46,7 +46,7 @@
 
 ## Screenshots
 
-![alt text](image-4.png)
+![TEST 4](image-4.png)
 
 ### Test 5: Get Non-existent Task (404)
 
@@ -56,7 +56,7 @@
 
 ## Screenshots
 
-![alt text](image-5.png)
+![TEST 5](image-5.png)
 
 ### Test 6: Create Task (Valid)
 
@@ -74,7 +74,7 @@
 
 ## Screenshots
 
-![alt text](image-6.png)
+![TEST 6](image-6.png)
 
 ### Test 7: Create Task (Invalid - no title)
 
@@ -89,7 +89,7 @@
 
 ## Screenshots
 
-![alt text](image-7.png)
+![TEST 7](image-7.png)
 
 ### Test 8: Update Task
 
@@ -107,7 +107,7 @@
 
 ## Screenshots
 
-![alt text](image-8.png)
+![TEST 8](image-8.png)
 
 ### Test 9: Delete Task
 
@@ -117,7 +117,7 @@
 
 ## Screenshots
 
-![alt text](image-9.png)
+![TEST 9](image-9.png)
 
 ### Test 10: Get Categories
 
@@ -127,7 +127,7 @@
 
 ## Screenshots
 
-![alt text](image-10.png)
+![TEST 10](image-10.png)
 
 ### Test 11: Create Category
 
@@ -142,7 +142,7 @@
 
 ## Screenshots
 
-![alt text](image-11.png)
+![TEST 11](image-11.png)
 
 ### Test 12: 404 for Unknown Route
 
@@ -152,4 +152,4 @@
 
 ## Screenshots
 
-![alt text](image-12.png)
+![TEST 12](image-12.png)
