@@ -1,0 +1,15 @@
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/bin/Debug/net8.0/Exercise3
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/bin/Debug/net8.0/Exercise3.deps.json
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/bin/Debug/net8.0/Exercise3.runtimeconfig.json
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/bin/Debug/net8.0/Exercise3.dll
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/bin/Debug/net8.0/Exercise3.pdb
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/obj/Debug/net8.0/Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/obj/Debug/net8.0/Exercise3.AssemblyInfoInputs.cache
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/obj/Debug/net8.0/Exercise3.AssemblyInfo.cs
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/obj/Debug/net8.0/Exercise3.csproj.CoreCompileInputs.cache
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/obj/Debug/net8.0/Exercise3.sourcelink.json
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/obj/Debug/net8.0/Exercise3.dll
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/obj/Debug/net8.0/refint/Exercise3.dll
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/obj/Debug/net8.0/Exercise3.pdb
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/obj/Debug/net8.0/Exercise3.genruntimeconfig.cache
+/Users/cungnguyen/Desktop/code/CSCI_6323/hw4-csharp-basics/Exercise3/obj/Debug/net8.0/ref/Exercise3.dll
